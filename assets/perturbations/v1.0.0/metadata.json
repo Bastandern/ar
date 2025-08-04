@@ -1,0 +1,12 @@
+{
+  "version": "v1.0.0",
+  "releaseDate": "2024-01-15",
+  "fileSize": "2.1MB",
+  "checksum": "sha256:your-checksum-here",
+  "description": "初始版本的扰动库",
+  "compatibility": {
+    "minVersion": "1.0.0",
+    "maxVersion": "1.1.0"
+  },
+  "downloadUrl": "https://raw.githubusercontent.com/Bastandern/ar/main/assets/perturbations/v1.0.0/uap.ar"
+} 
